@@ -10,4 +10,8 @@ If one goes more than 100, then the last roll of dice becomes invalid and the nu
 # Code:
 The code is simple with all the information of ladders and snakes.
 Each player gets the chance to roll by pressing 1 and thereby see their luck of winning the game.
+# Extensions:
+Two more codes are included:
+1. To count the number of snakes and ladders in the playing board.
+2. To find whether the sequence of numbers by the rolling dice is having the winning combination or not.
 # Happy coding
